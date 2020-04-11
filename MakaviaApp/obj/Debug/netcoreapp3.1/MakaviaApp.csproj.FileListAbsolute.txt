@@ -56,9 +56,7 @@ C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\bin\Debug\netcoreapp3.1\runti
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\MakaviaApp.csprojAssemblyReference.cache
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\MakaviaApp.RazorComponent.input.cache
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
-C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
-C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
@@ -161,9 +159,7 @@ C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Makav
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\MakaviaApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\RazorDeclaration\MakaviaApp.dll
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
-C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
-C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
 C:\Users\varti\source\repos\MakaviaGame\MakaviaApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs

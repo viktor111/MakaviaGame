@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace MakaviaApp.Models
 {
     public class ApplicationUser : IdentityUser
-    {
+    {       
     }
 }
