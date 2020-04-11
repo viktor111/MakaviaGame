@@ -12,14 +12,15 @@ namespace MakaviaApp.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
-
         }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);            
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Character>().
+                HasOne(u => u.ApplicationUser).
+                WithMany(c => c.Characters).
+                HasForeignKey(c => c.ApplicationUserId);
         }
-
-
     }
 }
