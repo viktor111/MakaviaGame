@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakaviaApp", "MakaviaApp\MakaviaApp.csproj", "{CC9071A3-A093-46FF-A63B-7A431CBB38A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9071A3-A093-46FF-A63B-7A431CBB38A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9071A3-A093-46FF-A63B-7A431CBB38A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9071A3-A093-46FF-A63B-7A431CBB38A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9071A3-A093-46FF-A63B-7A431CBB38A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C49524-C90C-473A-BD86-DD4EACB8CA7D}
+	EndGlobalSection
+EndGlobal
